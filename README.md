@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/youssefbargach/)
 [![Website](https://img.shields.io/badge/Website-Bargach.dev-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Bargach.dev)
-[![Location](https://img.shields.io/badge/📍_Ben_Guerir,_Morocco-red?style=for-the-badge)](https://github.com/ybargach)
+[![Location](https://img.shields.io/badge/📍_Agadir,_Morocco-red?style=for-the-badge)](https://github.com/ybargach)
+[![Profile Views](https://komarev.com/ghpvc/?username=ybargach&label=Profile+Views&color=6e40c9&style=for-the-badge)](https://github.com/ybargach)
 
 </div>
 
@@ -20,7 +21,7 @@
 about_me:
   name: "Youssef Bargach"
   role: "Private Blockchain Developer"
-  location: "Ben Guerir, Morocco"
+  location: "Agadir, Morocco"
   website: "https://Bargach.dev"
   focus:
     - "Private blockchain networks & distributed ledger technology"
@@ -67,13 +68,25 @@ about_me:
 
 <img src="https://streak-stats.demolab.com?user=ybargach&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" alt="GitHub Streak" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ybargach&theme=tokyo-night&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true)
-
 </div>
 
 ---
 
+## 🔐 What I Do
+
+| Area | Details |
+|------|---------|
+| ⛓️ **Private Blockchains** | Design & deploy permissioned ledger networks |
+| 📝 **Smart Contracts** | Solidity-based contracts with security-first approach |
+| 🏗️ **Hyperledger Fabric** | Enterprise-grade blockchain solutions |
+| 🔒 **Security** | Zero-trust architecture & on-chain verification |
+| 🐳 **DevOps** | Docker, Go & Python automation pipelines |
+
+---
+
 <div align="center">
+
+*"In blockchain we trust — but we verify anyway."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer)
 
