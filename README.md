@@ -27,7 +27,7 @@ about_me:
     - "Smart contract development (Solidity)"
     - "Hyperledger Fabric & enterprise blockchain"
     - "Decentralized application (dApp) architecture"
-  favorite_quote: "The blockchain is an incorruptible digital ledger of economic transactions."
+  quote: "Trust no one. Verify everything. Build on-chain."
 ```
 
 ---
@@ -63,11 +63,11 @@ about_me:
 
 <div align="center">
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ybargach&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api?username=ybargach&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff" alt="Youssef's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ybargach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybargach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff" alt="Top Languages" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ybargach&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=ybargach&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" alt="GitHub Streak" />
 
 </div>
 
