@@ -72,18 +72,6 @@ about_me:
 
 ---
 
-## 🔐 What I Do
-
-| Area | Details |
-|------|---------|
-| ⛓️ **Private Blockchains** | Design & deploy permissioned ledger networks |
-| 📝 **Smart Contracts** | Solidity-based contracts with security-first approach |
-| 🏗️ **Hyperledger Fabric** | Enterprise-grade blockchain solutions |
-| 🔒 **Security** | Zero-trust architecture & on-chain verification |
-| 🐳 **DevOps** | Docker, Go & Python automation pipelines |
-
----
-
 <div align="center">
 
 *"In blockchain we trust — but we verify anyway."*
