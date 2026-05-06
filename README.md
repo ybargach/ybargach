@@ -63,11 +63,11 @@ about_me:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ybargach&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff" alt="Youssef's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybargach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff" alt="Top Languages" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=ybargach&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://streak-stats.demolab.com?user=ybargach&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" alt="GitHub Streak" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ybargach&theme=tokyo-night&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true)
 
 </div>
 
