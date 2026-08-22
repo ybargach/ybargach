@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Youssef Bargach — Blockchain Developer</title>
+  <desc id="desc">A dark navy banner with violet and cyan blockchain network details.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#101b37"/>
+      <stop offset="1" stop-color="#21113d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38bdf8" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1280" height="340" rx="22" fill="url(#bg)"/>
+  <circle cx="1110" cy="38" r="250" fill="#2563eb" opacity="0.13"/>
+  <circle cx="1165" cy="295" r="230" fill="#9333ea" opacity="0.12"/>
+  <circle cx="104" cy="305" r="165" fill="#0ea5e9" opacity="0.08"/>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5" opacity="0.9">
+    <path d="M835 72 L935 116 L1045 77 L1165 135 L1250 85"/>
+    <path d="M790 238 L890 188 L1000 240 L1108 184 L1250 222"/>
+    <path d="M925 116 L890 188 M1045 77 L1000 240 M1165 135 L1108 184"/>
+  </g>
+  <g filter="url(#glow)">
+    <g fill="#38bdf8"><circle cx="835" cy="72" r="6"/><circle cx="935" cy="116" r="6"/><circle cx="1045" cy="77" r="6"/><circle cx="890" cy="188" r="6"/><circle cx="1000" cy="240" r="6"/></g>
+    <g fill="#c084fc"><circle cx="1165" cy="135" r="6"/><circle cx="1250" cy="85" r="6"/><circle cx="790" cy="238" r="6"/><circle cx="1108" cy="184" r="6"/><circle cx="1250" cy="222" r="6"/></g>
+  </g>
+  <g transform="translate(82 78)">
+    <rect width="86" height="86" rx="24" fill="#141f3d" stroke="#5567ff" stroke-opacity="0.65"/>
+    <path d="M25 28 L13 43 L25 58 M61 28 L73 43 L61 58 M51 21 L35 65" fill="none" stroke="#76d7ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="198" y="122" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Youssef Bargach</text>
+  <text x="202" y="162" fill="#b7c8e8" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="3.2">BLOCKCHAIN DEVELOPER</text>
+  <rect x="202" y="190" width="408" height="2" rx="1" fill="url(#line)"/>
+  <text x="202" y="232" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="21">Smart Contracts · Distributed Systems · Web3</text>
+  <text x="202" y="270" fill="#8fa4c5" font-family="Arial, Helvetica, sans-serif" font-size="16">Agadir, Morocco</text>
+</svg>
