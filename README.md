@@ -1,81 +1,35 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Youssef%20Bargach&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Private%20Blockchain%20Developer%20%7C%20Morocco&descAlignY=55&descAlign=50)
+# Youssef Bargach
+
+**Blockchain Developer | Smart Contracts | Distributed Systems**
+
+Agadir, Morocco | [Portfolio](https://bargach.dev) | [LinkedIn](https://linkedin.com/in/youssefbargach/)
 
 </div>
 
-<div align="center">
+> **Trust no one. Verify everything. Build on-chain.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/youssefbargach/)
-[![Website](https://img.shields.io/badge/Website-Bargach.dev-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Bargach.dev)
-[![Location](https://img.shields.io/badge/📍_Agadir,_Morocco-red?style=for-the-badge)](https://github.com/ybargach)
-[![Profile Views](https://komarev.com/ghpvc/?username=ybargach&label=Profile+Views&color=6e40c9&style=for-the-badge)](https://github.com/ybargach)
+## About me
 
-</div>
+I build secure, verifiable software at the intersection of blockchain and distributed systems. My work focuses on private networks, Solidity smart contracts, and dApp architecture that is practical enough for real products.
 
----
+## Focus
 
-## 🧠 About Me
+- **Private & enterprise blockchain** — Hyperledger Fabric, distributed ledgers, and network design
+- **Smart contracts** — Solidity, contract architecture, testing, and security-minded development
+- **Web3 products** — dApp architecture, integrations, and developer workflows
+- **Core engineering** — C, C++, Python, Go, JavaScript, TypeScript, Docker, and Git
 
-```yaml
-about_me:
-  name: "Youssef Bargach"
-  role: "Private Blockchain Developer"
-  location: "Agadir, Morocco"
-  website: "https://Bargach.dev"
-  focus:
-    - "Private blockchain networks & distributed ledger technology"
-    - "Smart contract development (Solidity)"
-    - "Hyperledger Fabric & enterprise blockchain"
-    - "Decentralized application (dApp) architecture"
-  quote: "Trust no one. Verify everything. Build on-chain."
-```
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
----
+## Let's connect
 
-## ⛓️ Blockchain Stack
-
-<div align="center">
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ybargach&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://streak-stats.demolab.com?user=ybargach&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-*"In blockchain we trust — but we verify anyway."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer)
-
-</div>
+Open to thoughtful collaboration around blockchain infrastructure, smart contracts, and developer tools. Reach me through [Bargach.dev](https://bargach.dev) or [LinkedIn](https://linkedin.com/in/youssefbargach/).
