@@ -1,81 +1,74 @@
-<div align="center">
+<a href="https://portfolio-topaz-three-za1h48mx5k.vercel.app/">
+  <img src="./assets/profile-header.svg" alt="Youssef Bargach — Software & Blockchain Engineer. Product engineering, systems software, and distributed technologies." width="100%" />
+</a>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Youssef%20Bargach&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Private%20Blockchain%20Developer%20%7C%20Morocco&descAlignY=55&descAlign=50)
+<p align="center">
+  <a href="https://portfolio-topaz-three-za1h48mx5k.vercel.app/"><b>PORTFOLIO ↗</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/youssefbargach/"><b>LINKEDIN ↗</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://portfolio-topaz-three-za1h48mx5k.vercel.app/cv"><b>VIEW CV ↗</b></a>
+</p>
 
-</div>
+## 01 / About
 
-<div align="center">
+I'm **Youssef Bargach**, a **Software & Blockchain Engineer** based in Agadir, Morocco.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/youssefbargach/)
-[![Website](https://img.shields.io/badge/Website-Bargach.dev-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Bargach.dev)
-[![Location](https://img.shields.io/badge/📍_Agadir,_Morocco-red?style=for-the-badge)](https://github.com/ybargach)
-[![Profile Views](https://komarev.com/ghpvc/?username=ybargach&label=Profile+Views&color=6e40c9&style=for-the-badge)](https://github.com/ybargach)
+I build product interfaces, data workflows, systems software, and infrastructure. My work spans full-stack applications, low-level programming, and distributed technologies, with a blockchain focus on smart contracts, application integration, and permissioned networks.
 
-</div>
+My **1337 Coding School / 42 Network** projects explore systems programming, networking, infrastructure, and graphics through a project-based, peer-learning curriculum.
+
+## 02 / Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>SihaRx</h3>
+<p><sub>PRODUCT ENGINEERING · PHARMACY PLATFORM</sub></p>
+<p>A multi-tenant platform connecting pharmacy inventory, sales, orders, reception, payments, and customer balances.</p>
+<p>I work across the product interface, server-side validation, database operations, and regression tests, with a focus on tenant boundaries and data integrity.</p>
+<p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
+<p><a href="https://portfolio-topaz-three-za1h48mx5k.vercel.app/work/siharx/"><b>Explore the project ↗</b></a></p>
+</td>
+<td width="50%" valign="top">
+<h3>Festival</h3>
+<p><sub>SMART CONTRACTS · INDEPENDENT PROJECT</sub></p>
+<p>A set of Solidity contracts covering festival ticketing, scheduling, artist management, refunds, payments, and owner-controlled operations.</p>
+<p>Separate contracts handle ticket counts, access control, time-dependent pricing, artist payments, and settlement rules.</p>
+<p><code>Solidity</code> <code>Access control</code> <code>Settlement</code></p>
+<p><a href="https://github.com/ybargach/Contracts/tree/main/Festival"><b>Explore the contracts ↗</b></a></p>
+</td>
+</tr>
+</table>
+
+### Built at 1337 / 42
+
+| Project | Engineering focus | Stack |
+| :--- | :--- | :--- |
+| **ft_transcendence** · Team project | Real-time multiplayer Pong. My contribution: a smart contract recording tournament results on Ethereum, integrated with the backend through Web3. | Solidity · JavaScript · Python · Web3 |
+| **Inception** | Isolated services assembled into a working application environment. | Docker · Docker Compose · NGINX · WordPress |
+| **Minishell** | A Unix shell exploring processes and command execution. | C · POSIX · GNU Readline · Makefile |
+| **ft_irc** | An IRC server handling connected clients and network events. | C++ · Sockets · epoll |
+| **Cub3D** | A first-person raycasting renderer built from a 2D map. | C · MiniLibX · Raycasting |
+
+[More about these projects ↗](https://portfolio-topaz-three-za1h48mx5k.vercel.app/#school-projects)
+
+## 03 / Toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | C · C++ · Go · Python · JavaScript · TypeScript |
+| **Blockchain** | Solidity · Hyperledger Fabric |
+| **Frontend** | Next.js · React · Tailwind CSS |
+| **Data / Backend** | PostgreSQL |
+| **Infrastructure** | Git · Docker · Docker Compose · NGINX · Linux |
+
+## 04 / Let's build something
+
+Software, systems, blockchain, or something worth building.
+
+**[Connect on LinkedIn ↗](https://www.linkedin.com/in/youssefbargach/)** &nbsp; · &nbsp; **[Visit my portfolio ↗](https://portfolio-topaz-three-za1h48mx5k.vercel.app/)**
 
 ---
 
-## 🧠 About Me
-
-```yaml
-about_me:
-  name: "Youssef Bargach"
-  role: "Private Blockchain Developer"
-  location: "Agadir, Morocco"
-  website: "https://Bargach.dev"
-  focus:
-    - "Private blockchain networks & distributed ledger technology"
-    - "Smart contract development (Solidity)"
-    - "Hyperledger Fabric & enterprise blockchain"
-    - "Decentralized application (dApp) architecture"
-  quote: "Trust no one. Verify everything. Build on-chain."
-```
-
----
-
-## ⛓️ Blockchain Stack
-
-<div align="center">
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ybargach&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://streak-stats.demolab.com?user=ybargach&theme=tokyonight&hide_border=true&background=0D1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" alt="GitHub Streak" />
-
-</div>
-
----
-
-<div align="center">
-
-*"In blockchain we trust — but we verify anyway."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer)
-
-</div>
+<p align="center"><sub>Agadir, Morocco &nbsp; / &nbsp; 1337 · 42 Network &nbsp; / &nbsp; <b>@ybargach</b></sub></p>
