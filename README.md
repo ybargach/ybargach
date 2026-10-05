@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Youssef%20Bargach&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Blockchain%20Engineer%20%7C%20Morocco&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Youssef%20Bargach&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26amp%3B%20Blockchain%20Engineer%20%7C%20Morocco&descAlignY=55&descAlign=50)
 
 </div>
 
