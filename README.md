@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/youssefbargach/)
-[![Website](https://img.shields.io/badge/Website-Bargach.dev-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Bargach.dev)
+[![Website](https://img.shields.io/badge/Website-ybargach.com-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ybargach.com)
 [![Location](https://img.shields.io/badge/📍_Agadir,_Morocco-red?style=for-the-badge)](https://github.com/ybargach)
 [![Profile Views](https://komarev.com/ghpvc/?username=ybargach&label=Profile+Views&color=6e40c9&style=for-the-badge)](https://github.com/ybargach)
 
@@ -22,7 +22,7 @@ about_me:
   name: "Youssef Bargach"
   role: "Private Blockchain Developer"
   location: "Agadir, Morocco"
-  website: "https://Bargach.dev"
+  website: "https://ybargach.com"
   focus:
     - "Private blockchain networks & distributed ledger technology"
     - "Smart contract development (Solidity)"
