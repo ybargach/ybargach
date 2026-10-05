@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Youssef%20Bargach&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Private%20Blockchain%20Developer%20%7C%20Morocco&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Youssef%20Bargach&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Blockchain%20Engineer%20%7C%20Morocco&descAlignY=55&descAlign=50)
 
 </div>
 
@@ -20,14 +20,13 @@
 ```yaml
 about_me:
   name: "Youssef Bargach"
-  role: "Private Blockchain Developer"
+  role: "Software & Blockchain Engineer"
   location: "Agadir, Morocco"
   website: "https://ybargach.com"
   focus:
-    - "Private blockchain networks & distributed ledger technology"
+    - "Product engineering: SihaRx, a multi-tenant pharmacy platform"
     - "Smart contract development (Solidity)"
-    - "Hyperledger Fabric & enterprise blockchain"
-    - "Decentralized application (dApp) architecture"
+    - "Systems programming in C and C++"
   quote: "Trust no one. Verify everything. Build on-chain."
 ```
 
@@ -38,7 +37,6 @@ about_me:
 <div align="center">
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </div>
@@ -50,7 +48,6 @@ about_me:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
